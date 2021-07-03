@@ -6,5 +6,5 @@ cd ~/.config/qtile
 mkdir icon
 mv ~/qtile-demon-slayer/qtile/icon/icon.png ~/config/qtile/icon
 sudo chsh -l
-sudo chsh -s /usr/bin.zsh
+sudo chsh -s /usr/bin/zsh
 
