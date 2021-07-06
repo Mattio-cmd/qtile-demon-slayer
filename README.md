@@ -2,7 +2,7 @@ I DO NOT LIKE ANIME, THIS IS FOR A FRIEND
 
 Primero tener que poner lo siguiente en la terminal:
 
-```sudo pacman -S xorg xorg-server xorg-xinit qtile dmenu kitty nitrogen vim git zsh lightdm lightdm-gtk-greeter exa discord firefox libreoffice ttf-ubuntu-font-family adobe-source-code-pro-fonts htop pcmanfm xplr cmus ```
+```sudo pacman -S xorg xorg-server xorg-xinit dmenu kitty nitrogen vim git zsh lightdm lightdm-gtk-greeter exa  firefox libreoffice ttf-ubuntu-font-family adobe-source-code-pro-fonts htop pcmanfm xplr cmus ```
 
 ```yay -S ttf-mononoki nerd-fonts-complete```
 
