@@ -1,5 +1,7 @@
 I DO NOT LIKE ANIME, THIS IS FOR A FRIEND
 
+# Installation
+
 Primero tener que poner lo siguiente en la terminal:
 
 ```sudo pacman -S xorg xorg-server xorg-xinit dmenu kitty nitrogen vim git zsh lightdm lightdm-gtk-greeter exa  firefox libreoffice ttf-ubuntu-font-family adobe-source-code-pro-fonts htop pcmanfm xplr cmus ```
@@ -17,3 +19,8 @@ Por ultimo tenes que darle 'ctrl' + 'mod' + 'q'
 Eso anterior te saca de la sesion para poder aplicar todos los cambios.
 
 I DO NOT LIKE ANIME, THIS IS FOR A FRIEND
+
+
+# Cool screenshots
+
+!
