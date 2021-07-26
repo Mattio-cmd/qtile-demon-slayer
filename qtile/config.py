@@ -180,7 +180,7 @@ screens = [
             [
    #             widget.CurrentLayout(),
                  widget.Image(
-                    filename = "~/qtile-demon-slayer/qtile/icon/icon.png",
+                    filename = "~/.config/qtile/icon/icon.png",
                     scale = "True",
                     mouse_callbacks = {'Button1': lambda: qtile.cmd_spawn(terminal)}
                     ),
